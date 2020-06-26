@@ -1,2 +1,2 @@
 # WTN
-Wipro Talent Next
+Wipro-Talent-Next
